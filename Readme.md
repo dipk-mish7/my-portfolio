@@ -5,7 +5,7 @@ This is my website
 
 ##Contribute
 
-Explore the code
-Find a bug 
-Fix bug
-Send PR
+*Explore the code
+*Find a bug 
+*Fix bug
+*Send PR
